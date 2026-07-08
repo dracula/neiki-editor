@@ -15,5 +15,16 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/neiki-edi
 #### Activating theme
 
 1. Make sure you're using Neiki's Editor 3.4.0 or later, which ships the Dracula theme built in;
-2. Open the toolbar's theme selector (or pass `theme: 'dracula'` in the editor config) and choose **Dracula**;
+2. Pass `theme: 'dracula'` when creating the editor.
+
+```js
+const editor = new NeikiEditor('#editor', {
+  theme: 'dracula'
+});
+```
+
+Or open the toolbar's theme selector and choose **Dracula**, or switch to it at runtime with `editor.setTheme('dracula')`.
+
+> **Note:** the selected theme is remembered globally in `localStorage`. If a user previously picked a different theme, that saved choice takes precedence over the `theme` option on subsequent loads — the config value only applies as the initial default.
+
 3. Boom! It's working ✨
