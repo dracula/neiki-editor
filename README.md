@@ -13,8 +13,8 @@ All instructions can be found at [draculatheme.com/neiki-editor](https://dracula
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/neiki-editor/graphs/contributors).
 
 | [![neikiri](https://github.com/neikiri.png?size=100)](https://github.com/neikiri) |
-| ---------------------------------------------------------------------------------------- |
-| [neikiri](https://github.com/neikiri)                                          |
+| --------------------------------------------------------------------------------- |
+| [neikiri](https://github.com/neikiri)                                             |
 
 ## Community
 
