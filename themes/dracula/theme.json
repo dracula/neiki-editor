@@ -1,0 +1,10 @@
+{
+  "name": "dracula",
+  "label": "Dracula",
+  "dark": true,
+  "entry": "theme.js",
+  "stylesheet": "theme.css",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/dracula/neiki-editor"
+}
